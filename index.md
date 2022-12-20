@@ -8,5 +8,5 @@
   </body>
 </html>
 
-<a href="https://www.scratch.mit.edu/users/davies545/">Click here to visit my scratch</a>
+<a href="https://scratch.mit.edu/users/Davies545/">Click here to visit my scratch</a>
 
