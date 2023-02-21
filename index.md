@@ -12,7 +12,8 @@
 
 <h1>Games</h1>
 
-<a href="https://bobrossman25.github.io/Stickmanhook/">
-  <img src="unnamed.jpg" alt="Logo" style="width: 200px; height: 200px;" />
+<center>
+<a href="https://bobrossman25.github.io/games.md/">
+  <img src="https://raw.githubusercontent.com/UGPS-Admin/UGPS-Admin.github.io/main/costume1.svg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
-
+</center>
