@@ -13,7 +13,7 @@
 <h1>Games</h1>
 
 <center>
-<a href="https://bobrossman25.github.io/games.md/">
+<a href="games.md">
   <img src="https://raw.githubusercontent.com/UGPS-Admin/UGPS-Admin.github.io/main/costume1.svg" alt="Logo" style="width: 200px; height: 200px;" />
 </a>
 </center>
