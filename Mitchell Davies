@@ -1,0 +1,42 @@
+
+@janpascal
+Initial commit
+8 years ago
+1
+<?xml version="1.0" encoding="UTF-8"?>
+2
+<module external.linked.project.id="SubwayEdit" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+3
+  <component name="FacetManager">
+4
+    <facet type="java-gradle" name="Java-Gradle">
+5
+      <configuration>
+6
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+7
+        <option name="BUILDABLE" value="false" />
+8
+      </configuration>
+9
+    </facet>
+10
+  </component>
+11
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
+12
+    <exclude-output />
+13
+    <content url="file://$MODULE_DIR$">
+14
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+15
+    </content>
+16
+    <orderEntry type="inheritedJdk" />
+17
+    <orderEntry type="sourceFolder" forTests="false" />
+18
+  </component>
+19
+</module>
